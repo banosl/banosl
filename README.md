@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ### <div align="center">Hi! I'm Leo, a backend developer based in Colorado. Hiking up trails and down to breweries.</div>  
 
-- 🔭 I’m currently a student at Turing School of Software and Design in their back end engineer program.
-- 🌱 I’m currently learning Ruby on Rails and PostreSQL.
+- 🔭 I am a backend developer with experience in Ruby and Ruby on Rails.
+- 🌱 I am currently learning C# and Javascript.
 - 💬 Ask me about my dog Luca or what I'm cooking this evening!
-- 📫 How to reach me: bsleo625@gmail.org
+- 📫 How to reach me: banos.leo5@gmail.org
 - 😄 Pronouns: He/His/Him
 
 <br/>  
