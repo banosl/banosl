@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### <div align="center">Hi! I'm Leo, a backend developer based in Colorado. Hiking up trails and down to breweries.</div>  
 
 - 🔭 I am a backend developer with experience in Ruby and Ruby on Rails.
-- 🌱 I am currently learning C# and Javascript.
+- 🌱 I am currently learning C#.
 - 💬 Ask me about my dog Luca or what I'm cooking this evening!
 - 📫 How to reach me: banos.leo5@gmail.org
 - 😄 Pronouns: He/His/Him
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <table><tr><td valign="top" width="33%">
 
 
-
+<!--
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -42,15 +42,14 @@ Here are some ideas to get you started:
 </div>
 
 </td><td valign="top" width="33%">
-
+-->
 
 
 ### Backend  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
+<div align="left">
+<a href="https://www.ruby-lang.org/en/" ><img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white" > 
+<a href="https://rubyonrails.org/" ><img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white" >
+<a href="www.postgresql.org" ><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" >
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,8 +57,8 @@ Here are some ideas to get you started:
 
 
 ### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<div align="left">  
+<a href="git-scm.com" ><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" > 
 </div>
 
 </td></tr></table>  
