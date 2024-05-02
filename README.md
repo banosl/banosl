@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### <div align="center">Hi! I'm Leo, a backend developer based in Colorado. Hiking up trails and down to breweries.</div>  
 
 - 🔭 I am a backend developer with experience in Ruby and Ruby on Rails.
-- 🌱 I am currently learning Python.
+- 🌱 I am currently learning Javascript.
 - 💬 Ask me about my dog Luca or what I'm cooking this evening!
 - 📫 How to reach me: banos.leo5@gmail.org
 - 😄 Pronouns: He/His/Him
