@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I am a backend developer with experience in Ruby and Ruby on Rails.
 - 🌱 I am currently learning Javascript.
 - 💬 Ask me about my dog Luca or what I'm cooking this evening!
-- 📫 How to reach me: banos.leo5@gmail.org
+- 📫 How to reach me: banos.leo5@gmail.com
 - 😄 Pronouns: He/His/Him
 
 <br/>  
